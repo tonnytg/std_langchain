@@ -27,7 +27,7 @@ langchain-community==0.4.1
 langchain-core==1.2.11
 langchain-google-genai==4.2.0
 langchain-ollama==1.0.1
-langchain-openai==1.1.7
+langchain-openai==1.1.14
 langchain-text-splitters==1.1.0
 langgraph==1.0.10rc1
 langgraph-checkpoint==4.0.0
