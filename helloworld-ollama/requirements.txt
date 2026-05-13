@@ -22,7 +22,7 @@ jiter==0.12.0
 jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==1.2.6
-langchain-classic==1.0.1
+langchain-classic==1.0.7
 langchain-community==0.4.1
 langchain-core==1.2.11
 langchain-google-genai==4.2.0
