@@ -1,3 +1,4 @@
+Version: 0.1.0
 # std_langchain
 
 LangChain study repo. Each folder is an isolated experiment with a runnable
