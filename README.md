@@ -1,3 +1,4 @@
+owner: ci-bot
 # std_langchain
 
 LangChain study repo. Each folder is an isolated experiment with a runnable
